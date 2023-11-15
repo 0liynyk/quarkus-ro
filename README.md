@@ -1,5 +1,6 @@
 [![Quarkus](https://design.jboss.org/quarkus/logo/final/PNG/quarkus_logo_horizontal_rgb_1280px_default.png#gh-light-mode-only)](https://quarkus.io/#gh-light-mode-only)
 [![Quarkus](https://design.jboss.org/quarkus/logo/final/PNG/quarkus_logo_horizontal_rgb_1280px_reverse.png#gh-dark-mode-only)](https://quarkus.io/#gh-dark-mode-only)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F0liynyk%2Fquarkus-ro.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2F0liynyk%2Fquarkus-ro?ref=badge_shield)
 
 [![Version](https://img.shields.io/maven-central/v/io.quarkus/quarkus-bom?logo=apache-maven&style=for-the-badge)](https://search.maven.org/artifact/io.quarkus/quarkus-bom)
 [![GitHub Actions Status](<https://img.shields.io/github/actions/workflow/status/QuarkusIO/quarkus/ci-actions-incremental.yml?branch=main&logo=GitHub&style=for-the-badge>)](https://github.com/quarkusio/quarkus/actions?query=workflow%3A%22Quarkus+CI%22)
@@ -46,3 +47,7 @@ Interested in when the next release is coming? Check our [release planning](http
 ## How to build Quarkus
 
 The build instructions are available in the [contribution guide](CONTRIBUTING.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2F0liynyk%2Fquarkus-ro.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2F0liynyk%2Fquarkus-ro?ref=badge_large)
